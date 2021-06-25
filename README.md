@@ -10,4 +10,4 @@ Jest to środowisko służące do tworzenia aplikacji CMD/BATCH oraz tych, zbudo
 
 # STRONA INTERNETOWA
 
-https:\\\\kiolesisstudiocode.000webhostapp.com
+https://kiolesisstudiocode.000webhostapp.com
