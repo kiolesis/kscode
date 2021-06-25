@@ -7,3 +7,7 @@ Jest to środowisko służące do tworzenia aplikacji CMD/BATCH oraz tych, zbudo
 * Przydatne narzędzia programistyczne, w tym również i narzędzia debugujące i naprawiające.
 * Oczyszczanie kodu, ustawienia środowiska, możliwość kompilacji plików i bibliotek.
 * Biblioteka Kiolesis Engine Patch 1.3 i odpowiednia dokumentacja poszczególnych składników.
+
+# STRONA INTERNETOWA
+
+https:\\kiolesisstudiocode.000webhostapp.com
